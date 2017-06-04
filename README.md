@@ -1,24 +1,8 @@
-# README
+Attempted to walk through this tutorial:
+http://mgiroux.me/2015/getting-started-with-rails-graphql-relay/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Got stuck on whether or not I was supposed to separately define a schema for 
+my postgresql database because if I did, doesn't that defeat the whole purpose
+of graphql?
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
